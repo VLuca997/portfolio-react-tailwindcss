@@ -16,10 +16,10 @@ export default function Work() {
                         <div className='flex flex-col gap-4'>
                             <h2 className='text-2xl lg:text-3xl text-white'>
                                 <span>
-                                        my <span className=''> projects</span>
+                                        I miei <span className=''> Progetti</span>
                                 </span>
                             </h2>
-                            <p className='text-gray-500'> Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                            <p className='text-gray-500'> LAVORI FRONT-END:</p>
                         </div>
 
                     </div>
