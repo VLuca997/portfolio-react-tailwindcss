@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    background-color: #20242d;
+    font-weight: 800;
+}
+
+/* Classe per il testo con gradiente */
+span,.primary-color {
+    background: linear-gradient(to right, #dd32f3, #ce90cb);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+/* Classe per il background con gradiente */
+.bg-primary-color {
+    background: linear-gradient(to right, #6b2b72, #15079d);
+}
